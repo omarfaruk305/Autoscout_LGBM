@@ -207,7 +207,7 @@ Link for [EDA_3](https://colab.research.google.com/drive/150BfB1v7rjLZVKIEtA5AxJ
 
 Link for [ML-Colab](https://colab.research.google.com/drive/1CffULUbOuMyiXhiXBcsjX0myCv4ixTE8?usp=sharing)
 
-
+[DEMO](https://share.streamlit.io/kadrefe/autoscout_lgbm/main/web_deploy.py)
 
 
 
